@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-core-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-device-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-device-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-example.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-example-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-example-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-gpio-extension-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/pi4j-1.2/pi4j-1.2/lib/pi4j-gpio-extension-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/linuxjoy-master/dev-distrib/JoyMonitor.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyleh/Downloads/linuxjoy-master/dev-distrib/LinuxJoystick.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

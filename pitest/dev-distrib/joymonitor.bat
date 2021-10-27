@@ -1,0 +1,1 @@
+java -cp .\LinuxJoystick.jar;.\JoyMonitor.jar -Djava.library.path=. -Dswing.defaultlaf=com.sun.java.swing.plaf.windows.WindowsLookAndFeel joymonitor.Main
