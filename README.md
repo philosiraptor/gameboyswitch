@@ -11,3 +11,5 @@ https://www.pcbway.com/project/shareproject/ground_boi_signal.html
 
 heres a huge iso you can download, burn it with rufus/balena/ idk a tuna sandwich
 https://drive.google.com/file/d/150eEt6jt2sRTaDK3TDJbanNfYEL_4Ezm/view?usp=sharing
+
+these instructions are intentionally vauge because you should not build this.
